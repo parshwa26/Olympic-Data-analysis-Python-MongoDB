@@ -1,0 +1,459 @@
+E:\windsor\ADBT\Project\python\venv\Scripts\python.exe E:/windsor/ADBT/Project/python/MongoDB_Query.py
+Unique Countries
+{'Total Countries': 230}
+
+Total Sports till 1900
+{'TotalSportTill1900': 22}
+
+Total Sports till 1950
+{'TotalSportTill1950': 48}
+
+Total Sports till 2000
+{'TotalSportTill2000': 65}
+
+Total Sports till 2016
+{'TotalSportTill2016': 66}
+
+Number of times particular country participated
+{'_id': 'AFG', 'Count': 126}
+{'_id': 'AHO', 'Count': 79}
+{'_id': 'ALB', 'Count': 70}
+{'_id': 'ALG', 'Count': 551}
+{'_id': 'AND', 'Count': 169}
+{'_id': 'ANG', 'Count': 267}
+{'_id': 'ANT', 'Count': 133}
+{'_id': 'ANZ', 'Count': 86}
+{'_id': 'ARG', 'Count': 3297}
+{'_id': 'ARM', 'Count': 221}
+{'_id': 'ARU', 'Count': 42}
+{'_id': 'ASA', 'Count': 37}
+{'_id': 'AUS', 'Count': 7638}
+{'_id': 'AUT', 'Count': 5141}
+{'_id': 'AZE', 'Count': 283}
+{'_id': 'BAH', 'Count': 374}
+{'_id': 'BAN', 'Count': 55}
+{'_id': 'BAR', 'Count': 219}
+{'_id': 'BDI', 'Count': 39}
+{'_id': 'BEL', 'Count': 3857}
+{'_id': 'BEN', 'Count': 71}
+{'_id': 'BER', 'Count': 212}
+{'_id': 'BHU', 'Count': 36}
+{'_id': 'BIH', 'Count': 134}
+{'_id': 'BIZ', 'Count': 76}
+{'_id': 'BLR', 'Count': 1787}
+{'_id': 'BOH', 'Count': 153}
+{'_id': 'BOL', 'Count': 152}
+{'_id': 'BOT', 'Count': 90}
+{'_id': 'BRA', 'Count': 3848}
+{'_id': 'BRN', 'Count': 126}
+{'_id': 'BRU', 'Count': 10}
+{'_id': 'BUL', 'Count': 3530}
+{'_id': 'BUR', 'Count': 44}
+{'_id': 'CAF', 'Count': 67}
+{'_id': 'CAM', 'Count': 63}
+{'_id': 'CAN', 'Count': 9733}
+{'_id': 'CAY', 'Count': 83}
+{'_id': 'CGO', 'Count': 105}
+{'_id': 'CHA', 'Count': 41}
+{'_id': 'CHI', 'Count': 925}
+{'_id': 'CHN', 'Count': 5141}
+{'_id': 'CIV', 'Count': 193}
+{'_id': 'CMR', 'Count': 312}
+{'_id': 'COD', 'Count': 93}
+{'_id': 'COK', 'Count': 40}
+{'_id': 'COL', 'Count': 1069}
+{'_id': 'COM', 'Count': 19}
+{'_id': 'CPV', 'Count': 18}
+{'_id': 'CRC', 'Count': 264}
+{'_id': 'CRO', 'Count': 876}
+{'_id': 'CRT', 'Count': 11}
+{'_id': 'CUB', 'Count': 2479}
+{'_id': 'CYP', 'Count': 225}
+{'_id': 'CZE', 'Count': 1874}
+{'_id': 'DEN', 'Count': 3570}
+{'_id': 'DJI', 'Count': 38}
+{'_id': 'DMA', 'Count': 19}
+{'_id': 'DOM', 'Count': 277}
+{'_id': 'ECU', 'Count': 277}
+{'_id': 'EGY', 'Count': 1622}
+{'_id': 'ERI', 'Count': 43}
+{'_id': 'ESA', 'Count': 218}
+{'_id': 'ESP', 'Count': 5313}
+{'_id': 'EST', 'Count': 876}
+{'_id': 'ETH', 'Count': 378}
+{'_id': 'EUN', 'Count': 864}
+{'_id': 'FIJ', 'Count': 232}
+{'_id': 'FIN', 'Count': 5467}
+{'_id': 'FRA', 'Count': 12758}
+{'_id': 'FRG', 'Count': 3315}
+{'_id': 'FSM', 'Count': 26}
+{'_id': 'GAB', 'Count': 63}
+{'_id': 'GAM', 'Count': 56}
+{'_id': 'GBR', 'Count': 12256}
+{'_id': 'GBS', 'Count': 21}
+{'_id': 'GDR', 'Count': 2645}
+{'_id': 'GEO', 'Count': 286}
+{'_id': 'GEQ', 'Count': 40}
+{'_id': 'GER', 'Count': 9830}
+{'_id': 'GHA', 'Count': 359}
+{'_id': 'GRE', 'Count': 3181}
+{'_id': 'GRN', 'Count': 54}
+{'_id': 'GUA', 'Count': 425}
+{'_id': 'GUI', 'Count': 73}
+{'_id': 'GUM', 'Count': 112}
+{'_id': 'GUY', 'Count': 102}
+{'_id': 'HAI', 'Count': 106}
+{'_id': 'HKG', 'Count': 685}
+{'_id': 'HON', 'Count': 189}
+{'_id': 'HUN', 'Count': 6607}
+{'_id': 'INA', 'Count': 412}
+{'_id': 'IND', 'Count': 1408}
+{'_id': 'IOA', 'Count': 94}
+{'_id': 'IRI', 'Count': 789}
+{'_id': 'IRL', 'Count': 1325}
+{'_id': 'IRQ', 'Count': 232}
+{'_id': 'ISL', 'Count': 627}
+{'_id': 'ISR', 'Count': 665}
+{'_id': 'ISV', 'Count': 294}
+{'_id': 'ITA', 'Count': 10715}
+{'_id': 'IVB', 'Count': 45}
+{'_id': 'JAM', 'Count': 848}
+{'_id': 'JOR', 'Count': 80}
+{'_id': 'JPN', 'Count': 8444}
+{'_id': 'KAZ', 'Count': 1429}
+{'_id': 'KEN', 'Count': 772}
+{'_id': 'KGZ', 'Count': 227}
+{'_id': 'KIR', 'Count': 11}
+{'_id': 'KOR', 'Count': 4464}
+{'_id': 'KOS', 'Count': 8}
+{'_id': 'KSA', 'Count': 230}
+{'_id': 'KUW', 'Count': 284}
+{'_id': 'LAO', 'Count': 54}
+{'_id': 'LAT', 'Count': 951}
+{'_id': 'LBA', 'Count': 84}
+{'_id': 'LBR', 'Count': 74}
+{'_id': 'LCA', 'Count': 28}
+{'_id': 'LES', 'Count': 66}
+{'_id': 'LIB', 'Count': 329}
+{'_id': 'LIE', 'Count': 369}
+{'_id': 'LTU', 'Count': 654}
+{'_id': 'LUX', 'Count': 996}
+{'_id': 'MAD', 'Count': 119}
+{'_id': 'MAL', 'Count': 45}
+{'_id': 'MAR', 'Count': 682}
+{'_id': 'MAS', 'Count': 530}
+{'_id': 'MAW', 'Count': 87}
+{'_id': 'MDA', 'Count': 234}
+{'_id': 'MDV', 'Count': 49}
+{'_id': 'MEX', 'Count': 2880}
+{'_id': 'MGL', 'Count': 550}
+{'_id': 'MHL', 'Count': 14}
+{'_id': 'MKD', 'Count': 84}
+{'_id': 'MLI', 'Count': 92}
+{'_id': 'MLT', 'Count': 118}
+{'_id': 'MNE', 'Count': 94}
+{'_id': 'MON', 'Count': 197}
+{'_id': 'MOZ', 'Count': 78}
+{'_id': 'MRI', 'Count': 144}
+{'_id': 'MTN', 'Count': 29}
+{'_id': 'MYA', 'Count': 111}
+{'_id': 'NAM', 'Count': 77}
+{'_id': 'NBO', 'Count': 2}
+{'_id': 'NCA', 'Count': 129}
+{'_id': 'NED', 'Count': 5839}
+{'_id': 'NEP', 'Count': 94}
+{'_id': 'NFL', 'Count': 1}
+{'_id': 'NGR', 'Count': 882}
+{'_id': 'NIG', 'Count': 47}
+{'_id': 'NOR', 'Count': 4960}
+{'_id': 'NRU', 'Count': 13}
+{'_id': 'NZL', 'Count': 2342}
+{'_id': 'OMA', 'Count': 66}
+{'_id': 'PAK', 'Count': 562}
+{'_id': 'PAN', 'Count': 139}
+{'_id': 'PAR', 'Count': 135}
+{'_id': 'PER', 'Count': 532}
+{'_id': 'PHI', 'Count': 694}
+{'_id': 'PLE', 'Count': 21}
+{'_id': 'PLW', 'Count': 25}
+{'_id': 'PNG', 'Count': 108}
+{'_id': 'POL', 'Count': 6207}
+{'_id': 'POR', 'Count': 1522}
+{'_id': 'PRK', 'Count': 807}
+{'_id': 'PUR', 'Count': 927}
+{'_id': 'QAT', 'Count': 192}
+{'_id': 'RHO', 'Count': 12}
+{'_id': 'ROT', 'Count': 12}
+{'_id': 'ROU', 'Count': 4405}
+{'_id': 'RSA', 'Count': 1711}
+{'_id': 'RUS', 'Count': 5143}
+{'_id': 'RWA', 'Count': 56}
+{'_id': 'SAA', 'Count': 93}
+{'_id': 'SAM', 'Count': 63}
+{'_id': 'SCG', 'Count': 321}
+{'_id': 'SEN', 'Count': 393}
+{'_id': 'SEY', 'Count': 111}
+{'_id': 'SGP', 'Count': 349}
+{'_id': 'SKN', 'Count': 42}
+{'_id': 'SLE', 'Count': 114}
+{'_id': 'SLO', 'Count': 1111}
+{'_id': 'SMR', 'Count': 181}
+{'_id': 'SOL', 'Count': 27}
+{'_id': 'SOM', 'Count': 32}
+{'_id': 'SRB', 'Count': 392}
+{'_id': 'SRI', 'Count': 146}
+{'_id': 'SSD', 'Count': 3}
+{'_id': 'STP', 'Count': 15}
+{'_id': 'SUD', 'Count': 107}
+{'_id': 'SUI', 'Count': 6150}
+{'_id': 'SUR', 'Count': 69}
+{'_id': 'SVK', 'Count': 1055}
+{'_id': 'SWE', 'Count': 8339}
+{'_id': 'SWZ', 'Count': 67}
+{'_id': 'SYR', 'Count': 156}
+{'_id': 'TAN', 'Count': 161}
+{'_id': 'TCH', 'Count': 4404}
+{'_id': 'TGA', 'Count': 46}
+{'_id': 'THA', 'Count': 747}
+{'_id': 'TJK', 'Count': 70}
+{'_id': 'TKM', 'Count': 54}
+{'_id': 'TLS', 'Count': 9}
+{'_id': 'TOG', 'Count': 59}
+{'_id': 'TPE', 'Count': 1097}
+{'_id': 'TTO', 'Count': 375}
+{'_id': 'TUN', 'Count': 561}
+{'_id': 'TUR', 'Count': 1356}
+{'_id': 'TUV', 'Count': 7}
+{'_id': 'UAE', 'Count': 144}
+{'_id': 'UAR', 'Count': 123}
+{'_id': 'UGA', 'Count': 260}
+{'_id': 'UKR', 'Count': 2559}
+{'_id': 'UNK', 'Count': 2}
+{'_id': 'URS', 'Count': 5685}
+{'_id': 'URU', 'Count': 576}
+{'_id': 'USA', 'Count': 18853}
+{'_id': 'UZB', 'Count': 495}
+{'_id': 'VAN', 'Count': 35}
+{'_id': 'VEN', 'Count': 925}
+{'_id': 'VIE', 'Count': 154}
+{'_id': 'VIN', 'Count': 42}
+{'_id': 'VNM', 'Count': 62}
+{'_id': 'WIF', 'Count': 20}
+{'_id': 'YAR', 'Count': 11}
+{'_id': 'YEM', 'Count': 32}
+{'_id': 'YMD', 'Count': 5}
+{'_id': 'YUG', 'Count': 2583}
+{'_id': 'ZAM', 'Count': 183}
+{'_id': 'ZIM', 'Count': 311}
+
+Number of female participants by year
+{'_id': 1900, 'TotalFemaleParticipants': 33}
+{'_id': 1904, 'TotalFemaleParticipants': 16}
+{'_id': 1906, 'TotalFemaleParticipants': 11}
+{'_id': 1908, 'TotalFemaleParticipants': 47}
+{'_id': 1912, 'TotalFemaleParticipants': 87}
+{'_id': 1920, 'TotalFemaleParticipants': 134}
+{'_id': 1924, 'TotalFemaleParticipants': 261}
+{'_id': 1928, 'TotalFemaleParticipants': 437}
+{'_id': 1932, 'TotalFemaleParticipants': 369}
+{'_id': 1936, 'TotalFemaleParticipants': 549}
+{'_id': 1948, 'TotalFemaleParticipants': 761}
+{'_id': 1952, 'TotalFemaleParticipants': 1682}
+{'_id': 1956, 'TotalFemaleParticipants': 1139}
+{'_id': 1960, 'TotalFemaleParticipants': 1730}
+{'_id': 1964, 'TotalFemaleParticipants': 1752}
+{'_id': 1968, 'TotalFemaleParticipants': 2193}
+{'_id': 1972, 'TotalFemaleParticipants': 2608}
+{'_id': 1976, 'TotalFemaleParticipants': 2606}
+{'_id': 1980, 'TotalFemaleParticipants': 2186}
+{'_id': 1984, 'TotalFemaleParticipants': 2983}
+{'_id': 1988, 'TotalFemaleParticipants': 4223}
+{'_id': 1992, 'TotalFemaleParticipants': 5178}
+{'_id': 1994, 'TotalFemaleParticipants': 1105}
+{'_id': 1996, 'TotalFemaleParticipants': 5008}
+{'_id': 1998, 'TotalFemaleParticipants': 1384}
+{'_id': 2000, 'TotalFemaleParticipants': 5431}
+{'_id': 2002, 'TotalFemaleParticipants': 1582}
+{'_id': 2004, 'TotalFemaleParticipants': 5546}
+{'_id': 2006, 'TotalFemaleParticipants': 1757}
+{'_id': 2008, 'TotalFemaleParticipants': 5816}
+{'_id': 2010, 'TotalFemaleParticipants': 1847}
+{'_id': 2012, 'TotalFemaleParticipants': 5815}
+{'_id': 2014, 'TotalFemaleParticipants': 2023}
+{'_id': 2016, 'TotalFemaleParticipants': 6223}
+
+Number of male participants by year
+{'_id': 1896, 'TotalMaleParticipants': 380}
+{'_id': 1900, 'TotalMaleParticipants': 1903}
+{'_id': 1904, 'TotalMaleParticipants': 1285}
+{'_id': 1906, 'TotalMaleParticipants': 1722}
+{'_id': 1908, 'TotalMaleParticipants': 3054}
+{'_id': 1912, 'TotalMaleParticipants': 3953}
+{'_id': 1920, 'TotalMaleParticipants': 4158}
+{'_id': 1924, 'TotalMaleParticipants': 5432}
+{'_id': 1928, 'TotalMaleParticipants': 5137}
+{'_id': 1932, 'TotalMaleParticipants': 2952}
+{'_id': 1936, 'TotalMaleParticipants': 6852}
+{'_id': 1948, 'TotalMaleParticipants': 6719}
+{'_id': 1952, 'TotalMaleParticipants': 7676}
+{'_id': 1956, 'TotalMaleParticipants': 5295}
+{'_id': 1960, 'TotalMaleParticipants': 7505}
+{'_id': 1964, 'TotalMaleParticipants': 7728}
+{'_id': 1968, 'TotalMaleParticipants': 8286}
+{'_id': 1972, 'TotalMaleParticipants': 9351}
+{'_id': 1976, 'TotalMaleParticipants': 7896}
+{'_id': 1980, 'TotalMaleParticipants': 6751}
+{'_id': 1984, 'TotalMaleParticipants': 8605}
+{'_id': 1988, 'TotalMaleParticipants': 10453}
+{'_id': 1992, 'TotalMaleParticipants': 11235}
+{'_id': 1994, 'TotalMaleParticipants': 2055}
+{'_id': 1996, 'TotalMaleParticipants': 8772}
+{'_id': 1998, 'TotalMaleParticipants': 2221}
+{'_id': 2000, 'TotalMaleParticipants': 8390}
+{'_id': 2002, 'TotalMaleParticipants': 2527}
+{'_id': 2004, 'TotalMaleParticipants': 7897}
+{'_id': 2006, 'TotalMaleParticipants': 2625}
+{'_id': 2008, 'TotalMaleParticipants': 7786}
+{'_id': 2010, 'TotalMaleParticipants': 2555}
+{'_id': 2012, 'TotalMaleParticipants': 7105}
+{'_id': 2014, 'TotalMaleParticipants': 2868}
+{'_id': 2016, 'TotalMaleParticipants': 7465}
+
+Number of Female GOLD winner by year
+{'_id': 1900, 'TotalFemaleGoldWinner': 4}
+{'_id': 1904, 'TotalFemaleGoldWinner': 6}
+{'_id': 1906, 'TotalFemaleGoldWinner': 2}
+{'_id': 1908, 'TotalFemaleGoldWinner': 6}
+{'_id': 1912, 'TotalFemaleGoldWinner': 10}
+{'_id': 1920, 'TotalFemaleGoldWinner': 15}
+{'_id': 1924, 'TotalFemaleGoldWinner': 17}
+{'_id': 1928, 'TotalFemaleGoldWinner': 34}
+{'_id': 1932, 'TotalFemaleGoldWinner': 22}
+{'_id': 1936, 'TotalFemaleGoldWinner': 32}
+{'_id': 1948, 'TotalFemaleGoldWinner': 38}
+{'_id': 1952, 'TotalFemaleGoldWinner': 53}
+{'_id': 1956, 'TotalFemaleGoldWinner': 54}
+{'_id': 1960, 'TotalFemaleGoldWinner': 69}
+{'_id': 1964, 'TotalFemaleGoldWinner': 86}
+{'_id': 1968, 'TotalFemaleGoldWinner': 90}
+{'_id': 1972, 'TotalFemaleGoldWinner': 102}
+{'_id': 1976, 'TotalFemaleGoldWinner': 148}
+{'_id': 1980, 'TotalFemaleGoldWinner': 162}
+{'_id': 1984, 'TotalFemaleGoldWinner': 188}
+{'_id': 1988, 'TotalFemaleGoldWinner': 199}
+{'_id': 1992, 'TotalFemaleGoldWinner': 230}
+{'_id': 1994, 'TotalFemaleGoldWinner': 36}
+{'_id': 1996, 'TotalFemaleGoldWinner': 255}
+{'_id': 1998, 'TotalFemaleGoldWinner': 63}
+{'_id': 2000, 'TotalFemaleGoldWinner': 288}
+{'_id': 2002, 'TotalFemaleGoldWinner': 70}
+{'_id': 2004, 'TotalFemaleGoldWinner': 298}
+{'_id': 2006, 'TotalFemaleGoldWinner': 77}
+{'_id': 2008, 'TotalFemaleGoldWinner': 306}
+{'_id': 2010, 'TotalFemaleGoldWinner': 77}
+{'_id': 2012, 'TotalFemaleGoldWinner': 301}
+{'_id': 2014, 'TotalFemaleGoldWinner': 91}
+{'_id': 2016, 'TotalFemaleGoldWinner': 318}
+
+Number of Male GOLD winner by year
+{'_id': 1896, 'TotalMaleGoldWinner': 62}
+{'_id': 1900, 'TotalMaleGoldWinner': 197}
+{'_id': 1904, 'TotalMaleGoldWinner': 167}
+{'_id': 1906, 'TotalMaleGoldWinner': 155}
+{'_id': 1908, 'TotalMaleGoldWinner': 288}
+{'_id': 1912, 'TotalMaleGoldWinner': 316}
+{'_id': 1920, 'TotalMaleGoldWinner': 478}
+{'_id': 1924, 'TotalMaleGoldWinner': 315}
+{'_id': 1928, 'TotalMaleGoldWinner': 241}
+{'_id': 1932, 'TotalMaleGoldWinner': 239}
+{'_id': 1936, 'TotalMaleGoldWinner': 316}
+{'_id': 1948, 'TotalMaleGoldWinner': 292}
+{'_id': 1952, 'TotalMaleGoldWinner': 298}
+{'_id': 1956, 'TotalMaleGoldWinner': 299}
+{'_id': 1960, 'TotalMaleGoldWinner': 290}
+{'_id': 1964, 'TotalMaleGoldWinner': 322}
+{'_id': 1968, 'TotalMaleGoldWinner': 335}
+{'_id': 1972, 'TotalMaleGoldWinner': 372}
+{'_id': 1976, 'TotalMaleGoldWinner': 360}
+{'_id': 1980, 'TotalMaleGoldWinner': 367}
+{'_id': 1984, 'TotalMaleGoldWinner': 383}
+{'_id': 1988, 'TotalMaleGoldWinner': 408}
+{'_id': 1992, 'TotalMaleGoldWinner': 433}
+{'_id': 1994, 'TotalMaleGoldWinner': 74}
+{'_id': 1996, 'TotalMaleGoldWinner': 353}
+{'_id': 1998, 'TotalMaleGoldWinner': 82}
+{'_id': 2000, 'TotalMaleGoldWinner': 375}
+{'_id': 2002, 'TotalMaleGoldWinner': 92}
+{'_id': 2004, 'TotalMaleGoldWinner': 366}
+{'_id': 2006, 'TotalMaleGoldWinner': 99}
+{'_id': 2008, 'TotalMaleGoldWinner': 365}
+{'_id': 2010, 'TotalMaleGoldWinner': 97}
+{'_id': 2012, 'TotalMaleGoldWinner': 331}
+{'_id': 2014, 'TotalMaleGoldWinner': 111}
+{'_id': 2016, 'TotalMaleGoldWinner': 347}
+
+Number of GOLD winner under 21 year's of age
+{'_id': None, 'TotalMedal': 1837}
+
+Number of GOLD winner above 20 and less than 36 year's of age
+{'_id': None, 'TotalMedal': 10609}
+
+Number of GOLD winner above 35 and less than 46 year's of age
+{'_id': None, 'TotalMedal': 617}
+
+Number of GOLD winner above 45 and less than 56 year's of age
+{'_id': None, 'TotalMedal45to55Age': 134}
+
+Number of GOLD winner above 55 year's of age
+{'_id': None, 'TotalMedal45to55Age': 27}
+
+Number of Female winners till now
+{'_id': 'F', 'TotalFemalWinner': 11253}
+
+Number of Male winners till now
+{'_id': 'M', 'TotalMaleWinner': 28530}
+
+Player details who won more than or equal to 10 Medals
+{'_id': 33557, 'TotalMedal': 10, 'Name': 'Raymond Clarence "Ray" Ewry', 'Team': 'United States'}
+{'_id': 45039, 'TotalMedal': 10, 'Name': 'Gary Wayne Hall, Jr.', 'Team': 'United States'}
+{'_id': 5700, 'TotalMedal': 10, 'Name': 'Polina Hryhorivna Astakhova', 'Team': 'Soviet Union'}
+{'_id': 109416, 'TotalMedal': 10, 'Name': 'Vitaly Venediktovich Shcherbo', 'Team': 'Unified Team'}
+{'_id': 124694, 'TotalMedal': 10, 'Name': 'Gerard Theodor Hubert Van Innis', 'Team': 'Belgium'}
+{'_id': 129726, 'TotalMedal': 10, 'Name': 'Isabelle Regina Werth', 'Team': 'Germany'}
+{'_id': 11943, 'TotalMedal': 10, 'Name': 'Marit Bjrgen', 'Team': 'Norway'}
+{'_id': 84381, 'TotalMedal': 10, 'Name': 'Akinori Nakayama', 'Team': 'Japan'}
+{'_id': 124146, 'TotalMedal': 10, 'Name': 'Franziska van Almsick', 'Team': 'Germany'}
+{'_id': 28790, 'TotalMedal': 10, 'Name': 'Aleksandr Nikolayevich Dityatin', 'Team': 'Soviet Union'}
+{'_id': 39726, 'TotalMedal': 10, 'Name': 'Aladr Gerevich (-Gerei)', 'Team': 'Hungary'}
+{'_id': 69210, 'TotalMedal': 10, 'Name': 'Frederick Carlton "Carl" Lewis', 'Team': 'United States'}
+{'_id': 112111, 'TotalMedal': 10, 'Name': 'Raisa Petrovna Smetanina', 'Team': 'Soviet Union'}
+{'_id': 9747, 'TotalMedal': 10, 'Name': 'Stefania Belmondo', 'Team': 'Italy'}
+{'_id': 58489, 'TotalMedal': 10, 'Name': 'gnes Keleti-Srkny (Klein)', 'Team': 'Hungary'}
+{'_id': 21402, 'TotalMedal': 11, 'Name': 'Viktor Ivanovych Chukarin', 'Team': 'Soviet Union'}
+{'_id': 113912, 'TotalMedal': 11, 'Name': 'Mark Andrew Spitz', 'Team': 'United States'}
+{'_id': 89706, 'TotalMedal': 11, 'Name': 'Carl Townsend Osburn', 'Team': 'United States'}
+{'_id': 11642, 'TotalMedal': 11, 'Name': 'Matthew Nicholas "Matt" Biondi', 'Team': 'United States'}
+{'_id': 18826, 'TotalMedal': 11, 'Name': 'Vra slavsk (-Odloilov)', 'Team': 'Czechoslovakia'}
+{'_id': 85286, 'TotalMedal': 12, 'Name': 'Aleksey Yuryevich Nemov', 'Team': 'Russia'}
+{'_id': 87390, 'TotalMedal': 12, 'Name': 'Paavo Johannes Nurmi', 'Team': 'Finland'}
+{'_id': 35550, 'TotalMedal': 12, 'Name': 'Birgit Fischer-Schmidt', 'Team': 'East Germany'}
+{'_id': 57998, 'TotalMedal': 12, 'Name': 'Sawao Kato', 'Team': 'Japan'}
+{'_id': 119922, 'TotalMedal': 12, 'Name': 'Jennifer Elisabeth "Jenny" Thompson (-Cumpelik)', 'Team': 'United States'}
+{'_id': 121258, 'TotalMedal': 12, 'Name': 'Dara Grace Torres (-Hoffman, -Minas)', 'Team': 'United States'}
+{'_id': 70965, 'TotalMedal': 12, 'Name': 'Ryan Steven Lochte', 'Team': 'United States'}
+{'_id': 23426, 'TotalMedal': 12, 'Name': 'Natalie Anne Coughlin (-Hall)', 'Team': 'United States'}
+{'_id': 74420, 'TotalMedal': 13, 'Name': 'Edoardo Mangiarotti', 'Team': 'Italy'}
+{'_id': 11951, 'TotalMedal': 13, 'Name': 'Ole Einar Bjrndalen', 'Team': 'Norway'}
+{'_id': 89187, 'TotalMedal': 13, 'Name': 'Takashi Ono', 'Team': 'Japan'}
+{'_id': 109161, 'TotalMedal': 13, 'Name': 'Borys Anfiyanovych Shakhlin', 'Team': 'Soviet Union'}
+{'_id': 4198, 'TotalMedal': 15, 'Name': 'Nikolay Yefimovich Andrianov', 'Team': 'Soviet Union'}
+{'_id': 67046, 'TotalMedal': 18, 'Name': 'Larysa Semenivna Latynina (Diriy-)', 'Team': 'Soviet Union'}
+{'_id': 94406, 'TotalMedal': 28, 'Name': 'Michael Fred Phelps, II', 'Team': 'United States'}
+
+Number of summer olympic participants
+{'Total summer olympic Participants': 222552}
+
+Number of WINTER olympic participants
+{'Total summer olympic Participants': 48564}
+
+Process finished with exit code 0
